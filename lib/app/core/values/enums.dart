@@ -1,0 +1,1 @@
+enum StorageContainer { UserData }
